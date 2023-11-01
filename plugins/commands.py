@@ -160,10 +160,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
+                          InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                          InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
                          ]
                         ]
                     )
@@ -179,10 +179,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
+                          InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                          InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
                          ]
                         ]
                     )
@@ -298,10 +298,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                      InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
+                      InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                      InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
                      ]
                     ]
                 )
@@ -352,10 +352,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+              InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
+              InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+              InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
              ]
             ]
         )
