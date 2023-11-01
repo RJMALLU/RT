@@ -6,18 +6,22 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/SPA4KBRO'>Ꮪ𝚸𝚨☈𝚱 ⵢ 𝚩☈𝚶</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='t.me\publicchannalin'>Ʀᴊ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://433sportz.com/'>ʜᴇʀᴏᴋᴜ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
-    SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/SPARKBRO">ʜᴇʀᴇ</a>
-Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/dawood_creationz">DAWOOD</a></b>"""
+    SOURCE_TXT = """</a>ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴏғ ʀᴏʙᴇʀᴛ,👨‍💻
+
+1. ᴛʜᴇʀᴇ ɪs ɴᴏ ғᴏʀᴄᴇ sᴜʙ ᴏʀ ᴍᴏʀᴇ (ғᴏʀᴄᴇ sᴜʙ ᴡᴀs ʀᴇᴍᴏᴠᴇᴅ ʙʏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ) sᴏ ʀᴏʙᴇʀᴛ ɪs ғᴜʟʟ ғʀᴇᴇ ғᴏʀ ᴀʟʟ💖😌
+
+2. ᴛʜᴇ ʀᴏʙᴇʀᴛ's ᴘʀᴏᴊᴇᴄᴛ ᴄᴏᴅᴇ ʀᴇᴡʀɪᴛᴇᴅ ᴀɢᴀɪɴ ᴡɪᴛʜ ɪɴᴄʀᴇᴀsᴇᴅ sᴘᴇᴇᴅ. ʀᴏʙᴇʀᴛ ɪs ʜᴏsᴛᴇᴅ ᴏɴ ʜᴇʀᴏᴋᴜ, ᴡʜɪᴄʜ ᴍᴀᴋᴇ ᴡɪʟʟ ʙᴏᴛ ғᴀsᴛ🚀
+
+3. ʀᴏʙᴇʀᴛ ᴡɪʟʟ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ʀᴇᴏ̨ᴜᴇsᴛ ʙʏ ᴀ sᴇᴛᴇᴅ ᴛɪᴍᴇ (ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛs ɪsᴜᴜᴇ🙂🙌)
+
+4. ᴀᴅᴅᴇᴅ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🖥️</a>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -148,9 +152,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Dawood
-• ᴜꜱᴇʀɴᴀᴍᴇ : @dawood_creationz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/dawood_creationz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Ʀᴊ
+• ᴜꜱᴇʀɴᴀᴍᴇ : @RJMALLU
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/RJMALLU'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -195,12 +199,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Join :  <a href="https://t.me/MovieTimeOfficiallls">Join</a>
+🔅 Join :  <a href="https://t.me/publicchannalin">Join</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @MovieTimeOfficiallz
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MovieTimeOfficiallls
+▫️ ᴄʜᴀɴɴᴇʟ : @publicchannalin
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @publicchannalin
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -235,7 +239,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
-👨‍💻Dev  : @SPA4KBRO
+👨‍💻Dev  : @RJMALLU
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
