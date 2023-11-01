@@ -163,7 +163,7 @@ async def start(client, message):
                           InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
                           InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
+                          InlineKeyboardButton("ʙᴏᴛ ᴏᴡɴᴇʀ", url="t.me/Owner_CK_Bot")
                          ]
                         ]
                     )
@@ -182,7 +182,7 @@ async def start(client, message):
                           InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
                           InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
+                          InlineKeyboardButton("ʙᴏᴛ ᴏᴡɴᴇʀ", url="t.me/Owner_CK_Bot")
                          ]
                         ]
                     )
@@ -301,7 +301,7 @@ async def start(client, message):
                       InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
                       InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
+                      InlineKeyboardButton("ʙᴏᴛ ᴏᴡɴᴇʀ", url="t.me/Owner_CK_Bot
                      ]
                     ]
                 )
@@ -355,7 +355,7 @@ async def start(client, message):
               InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url=GRP_LNK),
               InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿", url="t.me/creatorbeatz")
+              InlineKeyboardButton("ʙᴏᴛ ᴏᴡɴᴇʀ", url="t.me/Owner_CK_Bot")
              ]
             ]
         )
