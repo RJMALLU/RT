@@ -731,7 +731,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                 InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 🍿', url=GRP_LNK),
                                 InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 🍿", url="https://t.me/+48VTry5aqK4zOTk1")
+                                InlineKeyboardButton("ʙᴏᴛ ᴏᴡɴᴇʀ", url="t.me/Owner_CK_Bot")
                                 ]
                                 ]
                             )
@@ -804,7 +804,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 🍿', url=GRP_LNK),
                   InlineKeyboardButton('𝐂𝐊 𝖮𝖥𝖥𝖨𝖢𝖠𝖫', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 🍿", url="https://t.me/+48VTry5aqK4zOTk1")
+                  InlineKeyboardButton("ʙᴏᴛ ᴏᴡɴᴇʀ", url="t.me/Owner_CK_Bot")
                  ]
                 ]
             )
@@ -1152,7 +1152,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1421,7 +1421,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/rjmallu")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/Owner_CK_Bot")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
