@@ -57,7 +57,7 @@ async def save_group(bot, message):
                     except:
                         pass
                 temp.MELCOW['welcome'] = await message.reply_video(
-                                                 video="https://te.legra.ph/file/063866a95d6feb77b09b5.mp4",
+                                                 video=(MELCOW_VID),
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
