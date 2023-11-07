@@ -1,7 +1,7 @@
 import re
 from os import environ
 from Script import script
-
+from time import time
 
 id_pattern = re.compile(r'^.\d+$')
 def is_enabled(value, default):
@@ -21,6 +21,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 86400))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
+BOT_UPTIME = time()
 
 
 PICS = (environ.get('PICS', 'https://graph.org/file/88793564439601e500d85.jpg')).split()
