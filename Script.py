@@ -104,7 +104,8 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
+★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>
+★ ᴜᴘᴛɪᴍᴇ      :<code>{currentTime}</code>"""
 
     LOG_TEXT_G = """#ɴᴇᴡ_ɢʀᴏᴜᴘ
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
